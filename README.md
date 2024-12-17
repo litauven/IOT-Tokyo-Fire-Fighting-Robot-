@@ -1,36 +1,35 @@
 
 
-# Tokyo Fire Fighter Mobil  
+# **Tokyo Fire Fighter Mobil**  
 
-Kami berdedikasi untuk menciptakan solusi teknologi canggih yang dapat membantu menyelesaikan tantangan sehari-hari. Salah satu inovasi kami adalah **Tokyo Fire Fighter Mobil**, sebuah kendaraan pemadam kebakaran pintar berbasis teknologi Internet of Things (IoT) yang dirancang untuk memberikan respons cepat terhadap kebakaran.  
+We are dedicated to creating advanced technological solutions to address everyday challenges. One of our innovations is **Tokyo Fire Fighter Mobil**, a smart firefighting vehicle powered by **Internet of Things (IoT)** technology, designed to deliver a rapid response to fire emergencies.  
 
-## Deskripsi Proyek  
+## **Project Description**  
 
-**Tokyo Fire Fighter Mobil** adalah kendaraan pintar yang dilengkapi dengan:  
-- **Sensor api** untuk mendeteksi kebakaran secara akurat.  
-- **Microcontroller ESP** yang memungkinkan konektivitas Wi-Fi, sehingga kendaraan dapat dikendalikan melalui aplikasi **Tokyo Control**.  
+**Tokyo Fire Fighter Mobil** is an intelligent vehicle equipped with:  
+- **Fire sensors** for accurate fire detection.  
+- **ESP microcontroller** enabling Wi-Fi connectivity, allowing the vehicle to be controlled via the **Tokyo Control** application.  
 
-Mobil ini dirancang untuk bekerja secara otomatis maupun manual, memberikan fleksibilitas dalam pengoperasiannya. Fitur unggulannya meliputi:  
-- **Pengoperasian otomatis**: Mobil mendekati sumber api secara mandiri dan mengaktifkan water pump untuk memadamkan kebakaran.  
-- **Pengendalian manual**: Pengguna dapat mengontrol arah gerak mobil (maju, mundur, kanan, kiri) melalui aplikasi yang terhubung ke Firebase Realtime Database.  
+The vehicle is designed to operate in both automatic and manual modes, offering flexibility in its operation. Its key features include:  
+- **Automatic Operation**: The vehicle autonomously approaches the fire source and activates the water pump to extinguish the flames.  
+- **Manual Control**: Users can control the vehicle’s movement (forward, backward, right, left) via the application connected to the **Firebase Realtime Database**.  
 
-Sistem ini juga dilengkapi dengan:  
-- **Servo otomatis**:  
-  - Mengarahkan selang pemadam ke titik api.  
-  - Mengaktifkan water pump untuk menyemprotkan air secara efisien.  
-- **Relay** untuk pengendalian pompa dan perangkat lainnya.  
+The system is also equipped with:  
+- **Automatic Servo**:  
+  - Directs the fire extinguisher hose to the fire source.  
+  - Activates the water pump to efficiently spray water.  
+- **Relay** for controlling the pump and other devices.  
 
-## Fitur  
+## **Features**  
 
-- **Deteksi Kebakaran Otomatis**: Menggunakan sensor api untuk mendeteksi titik api.  
-- **Kontrol Jarak Jauh**: Aplikasi **Tokyo Control** memungkinkan pengendalian penuh mobil dari jarak jauh melalui koneksi Wi-Fi.  
-- **Servo Terintegrasi**: Menggerakkan selang pemadam untuk memastikan efisiensi dalam memadamkan api.  
-- **Relay yang Andal**: Untuk mengatur pengoperasian pompa air.  
-- **Koneksi IoT**: Memanfaatkan Wi-Fi untuk integrasi ke sistem cloud melalui Firebase.  
+- **Automatic Fire Detection**: Uses fire sensors to locate fire sources accurately.  
+- **Remote Control**: The **Tokyo Control** application provides full remote control of the vehicle via a Wi-Fi connection.  
+- **Integrated Servo**: Controls the fire extinguisher hose to ensure efficient fire suppression.  
+- **Reliable Relay**: Manages the operation of the water pump.  
+- **IoT Connectivity**: Utilizes Wi-Fi for seamless integration with cloud systems through **Firebase**.  
 
-## Harapan Kami  
+## **Our Vision**  
 
-Melalui **Tokyo Fire Fighter Mobil**, kami berharap dapat memberikan solusi inovatif dalam penanggulangan kebakaran. Dengan kombinasi teknologi otomatisasi dan kontrol jarak jauh, proyek ini dirancang untuk meningkatkan keamanan, memberikan respons cepat, dan menjaga ketenangan di saat-saat krusial.  
+Through **Tokyo Fire Fighter Mobil**, we aim to deliver an innovative solution for firefighting. By combining automation technology and remote control, this project is designed to enhance safety, provide a quick response, and maintain peace of mind during critical situations.  
 
-Kami percaya bahwa teknologi dapat membawa perubahan positif, dan kami berkomitmen untuk terus berinovasi demi masa depan yang lebih aman dan cerdas.  
-
+We believe that technology can drive positive change, and we are committed to continuous innovation for a safer and smarter future.  
